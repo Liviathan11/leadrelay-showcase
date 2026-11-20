@@ -27,30 +27,13 @@
 
 ---
 
-## One request, four steps
+## What it replaces
 
-```
- Customer writes          “Под мойкой лужа, перекрыла воду.
-                          Можно мастера на сегодня?”
-        │
-        ▼
- Bot asks back            service → address → phone → urgency
-                          (guided buttons, phone checked as E.164)
-        │
-        ▼
- Team chat gets a card    «Протечка под мойкой» · hot lead ·
-                          callback number · assigned manager
-        │
-        ▼
- CRM gets the same lead   phone, description, source — one delivery,
-                          retried until the CRM confirms
-        │
-        ▼
- Manager replies          answer goes to the customer's own chat:
-                          “Мастер может приехать в 15:00. Вам удобно?”
-```
+**Today:** a customer messages the team. A manager calls back to ask *who, where, what exactly*. Someone types the phone into the CRM by hand — or doesn’t — and the lead cools off while it waits.
 
-From the first message to a callback-ready lead: under a minute, no copy-paste, nothing lost.
+**With LeadRelay:** the customer taps four buttons. The manager opens a card with the phone number and the urgency already on it — presses *Take*, presses *Reply*, done. The CRM receives the same lead, every field filled, without anyone typing a word.
+
+That is the whole product: **the lead arrives before the callback does.**
 
 ---
 
