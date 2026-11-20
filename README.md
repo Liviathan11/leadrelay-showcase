@@ -4,15 +4,15 @@
   <img src="docs/portfolio/leadrelay-banner.jpg" alt="LeadRelay — a customer writes in Telegram, a scored lead lands in your CRM" width="720">
 </p>
 
-> **A customer writes at 21:43. By 21:44 your manager has the phone number, the problem and the urgency — in the chat your team already lives in.**
+> **A customer writes once. Your manager opens the chat and the lead is already there — phone number, problem, urgency. The CRM gets the same lead a second later. Nobody types anything twice.**
 
 [![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![aiogram](https://img.shields.io/badge/aiogram-3.x-2CA5E0?logo=telegram&logoColor=white)](https://aiogram.dev)
 [![Tests](https://img.shields.io/badge/tests-336%20passed-brightgreen)](#numbers-that-dont-need-adjectives)
-[![Typing](https://img.shields.io/badge/mypy-strict-blue)](#development)
-[![Ruff](https://img.shields.io/badge/ruff-clean-261230?logo=ruff&logoColor=white)](#development)
-[![Docker](https://img.shields.io/badge/deploy-one%20command-2496ED?logo=docker&logoColor=white)](#one-command-deploy)
-[![License: MIT](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
+[![Typing](https://img.shields.io/badge/mypy-strict-blue)](#development-discipline-what-your-purchase-rests-on)
+[![Ruff](https://img.shields.io/badge/ruff-clean-261230?logo=ruff&logoColor=white)](#development-discipline-what-your-purchase-rests-on)
+[![Docker](https://img.shields.io/badge/deploy-one%20command-2496ED?logo=docker&logoColor=white)](#deployment--one-command)
+[![License](https://img.shields.io/badge/license-commercial-success)](#license)
 
 **LeadRelay** is a Telegram intake bot for service teams. A customer answers a few guided questions, your manager receives a scored lead card, and a delivery worker hands the request to your CRM — signed, retried and confirmed. **Nobody copy-pastes anything.**
 
