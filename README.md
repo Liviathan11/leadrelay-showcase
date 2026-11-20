@@ -1,5 +1,9 @@
 # LeadRelay
 
+<p align="center">
+  <img src="docs/portfolio/LeadRelay-cover.png" alt="LeadRelay — a customer writes in Telegram, a scored lead lands in your CRM" width="720">
+</p>
+
 > **A customer writes at 21:43. By 21:44 your manager has the phone number, the problem and the urgency — in the chat your team already lives in.**
 
 [![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
