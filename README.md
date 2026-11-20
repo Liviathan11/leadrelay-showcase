@@ -27,18 +27,30 @@
 
 ---
 
-## The journey of one lead
+## One request, four steps
 
 ```
-21:43  Customer          “Под мойкой лужа, перекрыла воду. Можно мастера на сегодня?”
-  ..    LeadRelay         asks 5 guided questions · validates the phone (E.164)
-21:44  Team chat          🔥 Протечка под мойкой · СРОЧНАЯ · callback number · ZIP
-  ..    Manager           presses “Take” — the lead is his, everyone sees it
-21:45  Your CRM           the same lead arrives: phone, description, source, score
-21:46  Customer's chat    “Мастер может приехать в 15:00. Вам удобно?”
+ Customer writes          “Под мойкой лужа, перекрыла воду.
+                          Можно мастера на сегодня?”
+        │
+        ▼
+ Bot asks back            service → address → phone → urgency
+                          (guided buttons, phone checked as E.164)
+        │
+        ▼
+ Team chat gets a card    «Протечка под мойкой» · hot lead ·
+                          callback number · assigned manager
+        │
+        ▼
+ CRM gets the same lead   phone, description, source — one delivery,
+                          retried until the CRM confirms
+        │
+        ▼
+ Manager replies          answer goes to the customer's own chat:
+                          “Мастер может приехать в 15:00. Вам удобно?”
 ```
 
-While your competitor’s manager is typing *“may I ask who’s calling?”*, yours is already dialing.
+From the first message to a callback-ready lead: under a minute, no copy-paste, nothing lost.
 
 ---
 
